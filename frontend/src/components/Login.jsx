@@ -14,7 +14,7 @@ const Login = () => {
       const navigate = useNavigate();
 
       const  {storeTokenInLS} = useAuth();
-     const URL="https://authentication-wvf0.onrender.com/api/auth/login"
+     const URL="https://authentication-wvf0.onrender.com/login"
      
     
       const handleChange = (e) => {
