@@ -5,7 +5,7 @@ import {  toast } from 'react-toastify';
 
 const Register = () => {
 
-  const URL="https://authentication-wvf0.onrender.com/api/auth/register"
+  const URL="https://authentication-wvf0.onrender.com/register"
   
     
 
