@@ -10,7 +10,7 @@ const Contact = () => {
         message:""
     });
 
-    const URL="https://authentication-wvf0.onrender.com/api/auth/contact"
+    const URL="https://authentication-wvf0.onrender.com/contact"
     
   
     // lets tackle our handleInput
